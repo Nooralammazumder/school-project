@@ -1,0 +1,137 @@
+.container{
+    margin-bottom: 45px;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+.in-btn{
+    width: 90px;
+    background: #21B573;
+    border-radius: 33px;
+    color: #F0FFF0;
+    padding: 5px;
+}
+.bd-color{
+    background-color: #F0FFF0;
+}
+img{
+    width: 100%;
+}
+span{
+    color: #21B573;
+}
+.scadule{
+font-weight: 700px;
+font-size: 46px;
+line-height: 70px;
+}
+.lorem1{
+    font-weight: 400px;
+font-size: 16px;
+line-height: 36px;
+}
+.in-btn0{
+    color: #ffff;
+    background-color: #21B573;
+    border: none;
+    border-radius: 25px;
+    padding: 7px 15px;
+}
+.in-btn1{
+    color: #ffff;
+    background-color: #21B573;
+    border-radius: 29px;
+    border: none;
+    margin-bottom: 30px;
+    padding: 7px 15px;
+}
+.card-img {
+    width: 50px;
+}
+.cards{
+    height: 220px;
+    padding: 15px;
+    padding-top: 40px;
+    background-color: #F8FFFB;
+    border: none;
+    border-radius: 10px;
+}
+.cardss{
+    background-color: white;
+    box-shadow: 0px 20px 40px rgb(0, 0, 0, 0.1);
+}
+h1{
+    text-align: center;
+    padding-bottom: 45px;
+}
+.card-footer{
+    background-color: white;
+    border: none;
+}
+.card-sm-pic{
+    height: 18px;
+    width: 20px;
+    top: 2px;
+    left: 2px;
+}
+.btn{
+    border-radius: 30px;
+}
+.cads{
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border: none;
+    border-radius: 10px;
+}
+.date{
+padding-right: 30px;
+}
+.sits{
+    padding-left: 30px;
+}
+.cad-bdy{
+    padding: 15px 10px;
+}
+.test{
+    align-items: center;
+}
+.man-pic{
+    width: 120px;
+    height: 120px;
+}
+.para-lst{
+width: 500px;
+height: 20px;
+right: 200px;
+top: 179px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+color: #3b0808;
+margin-left: 50px;
+}
+.testi{
+    margin-left: 150px;
+}
+.last-div{
+    background-color:  #282531;
+    color: whitesmoke;
+    padding-top: 40px;
+}
+li{
+    list-style: none;
+}
+.kulli, .blli, .ulli{
+    padding-left: 60px;
+}
+.last-div-footer{
+    margin: 0;
+    margin-bottom: 20px;
+}
+footer{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.last-div-footer{
+    padding-left: 100px;
+}
